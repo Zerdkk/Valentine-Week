@@ -12,9 +12,9 @@ const roseDay = [
   `You are my heart, my soul, my everything,
   With you, my life is forever spring.
   Happy Valentine's Day, darling!`,
-  `तुम मेरे दिल की धड़कन हो,
-  तुम मेरी ज़िंदगी का सहारा हो।
-  हैप्पी वैलेंटाइन डे, मेरी जान!`,
+  `I don't know what I'd do without you. 
+  You're my heartbeat, my support, everything I need.
+   Happy Valentine's Day, babe.`,
   `You are my today, tomorrow, and forever,
   My love for you will never waver.
   Happy Valentine's Day, sweetheart!`,
@@ -24,9 +24,9 @@ const roseDay = [
   `You are my dream come true,
   My forever Valentine, only you.
   Happy Valentine's Day, darling!`,
-  `तुम मेरे प्यार की पहचान हो,
-  तुम मेरी ज़िंदगी का अरमान हो।
-  हैप्पी वैलेंटाइन डे, मेरी जान!`,
+  `You're what love means to me. 
+  Everything I've ever wanted, everything I dream about that's you.
+   Happy Valentine's Day, my love.`,
   `You are the melody in my heart,
   The reason my world feels like art.
   Happy Valentine's Day, sweetheart!`,
@@ -39,9 +39,9 @@ const roseDay = [
   `You are my heart’s greatest treasure,
   A love beyond any measure.
   Happy Valentine's Day, sweetheart!`,
-  `तुम मेरे दिल की खुशी हो,
-  तुम मेरी ज़िंदगी की मंज़िल हो।
-  हैप्पी वैलेंटाइन डे, मेरी जान!`,
+  `You make me so happy, like genuinely happy. 
+  You're not just part of my life you're where I'm heading, my destination, my future. 
+  Happy Valentine's Day, my love.`,
   `You are my forever Valentine,
   The one who makes my heart align.
   Happy Valentine's Day, my love!`,

@@ -12,21 +12,15 @@ Happy Teddy Day, my love!`,
   `You are my teddy bear, my forever friend,
 With you, my happiness will never end.
 Happy Teddy Day, darling!`,
-  `तुम मेरे प्यारे टेडी बियर हो,
-तुम्हारे बिना मेरी दुनिया अधूरी है।
-हैप्पी टेडी डे, मेरी जान!`,
+  `You're my favorite person, like my own personal teddy bear. Without you, everything just feels incomplete. Happy Teddy Day, love!`,
   `Just like a teddy bear, you are my comfort zone,
 With you, I never feel alone.
 Happy Teddy Day, sweetheart!`,
-  `तुम मेरे लिए टेडी बियर की तरह हो,
-जो हर दुख को दूर कर देता है।
-हैप्पी टेडी डे, मेरी जान!`,
+  `You're like a teddy bear to me whenever I'm down or going through something tough, you just make it all better. Happy Teddy Day, my love!`,
   `You are my teddy bear, my partner in crime,
 With you, every moment feels so sublime.
 Happy Teddy Day, my love!`,
-  `तुम मेरे टेडी बियर हो,
-जो मेरे दिल को छू लेते हो।
-हैप्पी टेडी डे, मेरी जान!`,
+  `There's something about you that just gets to me, right in my heart. You're my comfort, my teddy bear. Happy Teddy Day, babe!`,
   `Just like a teddy bear, you are my safe place,
 With you, I find peace and grace.
 Happy Teddy Day, sweetheart!`,

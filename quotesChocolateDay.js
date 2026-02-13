@@ -13,41 +13,29 @@ const chocolateDayQuotes = [
   `Life is like a box of chocolates,
   And you are the sweetest one in it.
   Happy Chocolate Day, sweetheart!`,
-  `चॉकलेट की तरह मीठी हो तुम,
-  चॉकलेट की तरह प्यारी हो तुम,
-  चॉकलेट डे पर यही दुआ है,
-  तुम हमेशा खुश रहो और मुस्कुराती रहो!
-  हैप्पी चॉकलेट डे!`,
+  `You're as sweet and wonderful as chocolate itself.
+   On this Chocolate Day, I just want you to stay happy and keep smiling like you always do.
+    Happy Chocolate Day!"`,
   `You are the chocolate to my milk,
   The sweetness to my life.
   Happy Chocolate Day, darling!`,
-  `चॉकलेट की तरह हो तुम्हारा प्यार,
-  जो दिल को कर दे मीठा और प्यारा।
-  हैप्पी चॉकलेट डे, मेरी जान!`,
+  `The way you love me is like the best chocolate - it just melts my heart and makes everything better. Happy Chocolate Day, babe!`,
   `Just like chocolate makes everything better,
   Your presence makes my life sweeter.
   Happy Chocolate Day, my love!`,
-  `तुम्हारी मुस्कान चॉकलेट से भी मीठी है,
-  तुम्हारा प्यार चॉकलेट से भी प्यारा है।
-  हैप्पी चॉकलेट डे, मेरी जान!`,
+  `Honestly, your smile beats any chocolate out there. And the way you love me? Nothing compares to that. Happy Chocolate Day, babe!`,
   `You are the reason my life is so sweet,
   Just like chocolate, you make everything complete.
   Happy Chocolate Day, sweetheart!`,
-  `चॉकलेट की तरह मीठा हो तुम्हारा साथ,
-  चॉकलेट की तरह प्यारा हो तुम्हारा हाथ।
-  हैप्पी चॉकलेट डे, मेरी जान!`,
+  `Every moment with you is so sweet, and just being able to hold your hand means everything to me. `,
   `Just like chocolate, you are irresistible,
   And your love is simply unforgettable.
   Happy Chocolate Day, my love!`,
-  `तुम्हारी मोहब्बत चॉकलेट से भी मीठी है,
-  तुम्हारी याद चॉकलेट से भी प्यारी है।
-  हैप्पी चॉकलेट डे, मेरी जान!`,
+  `Your love makes life so much sweeter, and having you by my side is the best gift I could ask for. `,
   `You are the chocolate in my life,
   Making every moment sweet and rife.
   Happy Chocolate Day, darling!`,
-  `चॉकलेट की तरह मीठा हो तुम्हारा प्यार,
-  चॉकलेट की तरह प्यारा हो तुम्हारा साथ।
-  हैप्पी चॉकलेट डे, मेरी जान!`,
+  `Every moment with you is so sweet, and just being able to hold your hand means everything to me.`,
   `Just like chocolate, you are my favorite treat,
   And your love makes my life complete.
   Happy Chocolate Day, sweetheart!`

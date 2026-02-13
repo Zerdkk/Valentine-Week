@@ -12,9 +12,7 @@ Happy Promise Day, sweetheart!`,
   `I promise to cherish you every day,
 And love you in every possible way.
 Happy Promise Day, darling!`,
-  `मैं वादा करता हूँ तुम्हारे साथ रहने का,
-हर मुश्किल में तुम्हारा साथ निभाने का।
-हैप्पी प्रॉमिस डे, मेरी जान!`,
+  `I'm making you a promise I'll stand by you through everything life throws at us. You'll never have to face anything alone. Happy Promise Day, babe`,
   `I promise to hold your hand forever,
 And leave you never.
 Happy Promise Day, my love!`,
@@ -24,9 +22,7 @@ Happy Promise Day, sweetheart!`,
   `I promise to be your partner in every dream,
 And make life better than it may seem.
 Happy Promise Day, darling!`,
-  `मैं वादा करता हूँ तुम्हारे प्यार को सजोने का,
-हर लम्हा तुम्हारे साथ बिताने का।
-हैप्पी प्रॉमिस डे, मेरी जान!`,
+  `I promise to help make your dreams come true and do everything I can to see you happy. Every bit of joy I find, I want to share it with you. Happy Promise Day, my love!!`,
   `I promise to be your light in the dark,
 And ignite your life with a spark.
 Happy Promise Day, my love!`,
@@ -39,9 +35,7 @@ Happy Promise Day, darling!`,
   `I promise to be your forever and always,
 And love you through all our days.
 Happy Promise Day, my love!`,
-  `मैं वादा करता हूँ तुम्हारे सपनों को सच करने का,
-हर खुशी तुम्हारे नाम करने का।
-हैप्पी प्रॉमिस डे, मेरी जान!`,
+  `I promise to cherish what we have and never take it for granted. I want to spend every moment I can with you, making memories together. Happy Promise Day, my love!`,
   `I promise to make you smile every day,
 And keep your worries at bay.
 Happy Promise Day, sweetheart!`,
